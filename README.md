@@ -17,6 +17,4 @@ I consider myself to be rather awkward, but I embrace it. Currently, I am a Brit
 - Data Gathering
 - Red Teaming (actively learning)
 - Programming (I possess foundational knowledge in several languages, allowing me to create a pretty much anything, though I recognise there is still much more to learn)
-<p align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/AresCodex.png" alt="Your Image Badge" />
 <img src="https://i.postimg.cc/V6hMJ2V9/freepik-adjust-21793.png" alt="Footer Image" style="width: 100%; max-width: 800px; height: auto;" />
