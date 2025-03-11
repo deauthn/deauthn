@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/s2w5rMPN/freepik-adjust-21792.png" alt="Header Image" style="width: 100%; max-width: 800px; height: auto; transform: rotate(180deg);" />
+<img src="https://i.postimg.cc/s2w5rMPN/freepik-adjust-21792.png" alt="Header Image" style="width: 100%; max-width: 800px; height: auto;" />
 
 ## About Me
 I consider myself to be rather awkward, but I embrace it. Currently, I am a British student pursuing college courses in Information Technology, with the aspiration of becoming a red teamer ☠️ while simultaneously honing my coding skills. Though I am at the beginning of my learning journey, I am dedicated to expanding my knowledge. Also I use Arch btw...
